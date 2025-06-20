@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe9dd373-b2a6-41b9-b1b2-824c76e479cd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vo6edevA9nTxaw5OnwiGJ2WA2D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Level.executor": "Run",
+    "Python.Level_0.executor": "Run",
+    "Python.assets.executor": "Run",
+    "Python.bossfight.executor": "Run",
+    "Python.bossfight1.executor": "Run",
+    "Python.bossfight2.executor": "Debug",
+    "Python.bossfight_scene.executor": "Run",
+    "Python.cutscene.executor": "Run",
+    "Python.death_menu.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.level_0.executor": "Run",
+    "Python.level_1.executor": "Run",
+    "Python.level_2.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_menu.executor": "Run",
+    "Python.mainn.executor": "Run",
+    "Python.player.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Кысь/PycharmProjects/game",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Кысь\PycharmProjects\game" />
+      <recent name="C:\Users\Кысь\Desktop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Кысь\PycharmProjects\game\images" />
+      <recent name="C:\Users\Кысь\PycharmProjects\game\sound" />
+      <recent name="C:\Users\Кысь\PycharmProjects\game\b_scenes" />
+      <recent name="C:\Users\Кысь\PycharmProjects\game\level" />
+      <recent name="C:\Users\Кысь\PycharmProjects\game\images\door" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe9dd373-b2a6-41b9-b1b2-824c76e479cd" name="Changes" comment="" />
+      <created>1744799176086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744799176086</updated>
+    </task>
+    <servers />
+  </component>
+</project>
